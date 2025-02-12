@@ -1,3 +1,4 @@
+NEWS Application built using [Programming Language/Framework] eg. Javascript, React, Nodejs and integrates multiple APIs to provide seamless functionality and an interactive user experience. The project demonstrates how to consume and manage RESTful APIs effectively, handling authentication, data processing, and real-time updates
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
